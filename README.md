@@ -35,7 +35,7 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-      <h3>🧩 LeetCode</h3>
+      <h3>⚡️ LeetCode</h3>
       <p>
         <img src="https://leetcard.jacoblin.cool/atheeee?theme=dark" alt="LeetCode Stats" />
       </p>
