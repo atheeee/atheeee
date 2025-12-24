@@ -31,6 +31,17 @@
 
 ---
 
+### 🧩 LeetCode
+
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/atheeee?theme=dark&ext=activity"
+    alt="LeetCode Stats"
+  />
+</p>
+
+---
+
 ### 🔗 Links
 
 - LinkedIn: [in/vyacheslav-vasiliadi](https://www.linkedin.com/in/vyacheslav-vasiliadi)
