@@ -34,9 +34,15 @@
 
 ### 🧩 LeetCode
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://leetcard.jacoblin.cool/atheeee?theme=dark&ext=activity"
+    alt="LeetCode Stats"
+  />
+</p> -->
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/atheeee?theme=dark"
     alt="LeetCode Stats"
   />
 </p>
