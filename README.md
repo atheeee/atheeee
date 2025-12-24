@@ -22,7 +22,7 @@
 ---
 
 ### 🎮 What I work on
-
+- Build **Android and iOS applications** using **Kotlin** and **Swift**.
 - Design and develop games in **Survival, Shooter, RTS and Horror** genres.
 - Target **Desktop, Mobile and Web** platforms using **Unity (C#)**.
 - Create **low-poly and high-poly 3D assets**, including sculpting and baking.
