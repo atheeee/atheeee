@@ -32,23 +32,6 @@
 
 ---
 
-### 🧩 LeetCode
-
-<p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/atheeee?theme=dark"
-    alt="LeetCode Stats"
-  />
-</p>
-
----
-
-### 🔗 Links
-
-- LinkedIn: [in/vyacheslav-vasiliadi](https://www.linkedin.com/in/vyacheslav-vasiliadi)
-- ArtStation: [artstation.com/atheeee](https://www.artstation.com/atheeee)
-- Unity Asset Store: [assetstore.unity.com/publishers/129758](https://assetstore.unity.com/publishers/129758)
-
 <table>
   <tr>
     <td valign="top" width="60%">
