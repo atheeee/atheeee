@@ -1,8 +1,8 @@
 <h1 align="center">Viacheslav | C# Developer & 3D Artist</h1>
 
 <p align="center">
-  <em>I develop games in Unity (C#) and create low-poly & high-poly 3D models and shaders.</em><br/>
-  <em>I enjoy turning ideas into playable worlds and stylized assets.</em>
+  <em>I develop games in Unity (C#), build iOS/Android applications, and create low-poly & high-poly 3D models and shaders.</em><br/>
+  <em>I enjoy turning ideas into playable worlds, polished apps, and stylized assets.</em>
 </p>
 
 ---
