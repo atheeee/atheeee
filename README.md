@@ -32,15 +32,13 @@
 
 ---
 
- <table>
+ <table width="100%" style="width:100%; border:none; border-collapse:collapse; table-layout:fixed;">
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" style="width:60%; border:none; padding:0 16px 0 0;">
       <h3>🧩 LeetCode</h3>
-      <p>
-        <img src="https://leetcard.jacoblin.cool/atheeee?theme=dark" alt="LeetCode Stats" />
-      </p>
+      <img src="https://leetcard.jacoblin.cool/atheeee?theme=dark" alt="LeetCode Stats" />
     </td>
-    <td valign="top" width="40%">
+    <td valign="top" style="width:40%; border:none; padding:0;">
       <h3>🔗 Links</h3>
       <ul>
         <li><a href="https://www.linkedin.com/in/vyacheslav-vasiliadi">LinkedIn: in/vyacheslav-vasiliadi</a></li>
@@ -49,5 +47,5 @@
       </ul>
     </td>
   </tr>
-</table> 
+</table>
 
