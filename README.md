@@ -34,12 +34,6 @@
 
 ### 🧩 LeetCode
 
-<!-- <p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/atheeee?theme=dark&ext=activity"
-    alt="LeetCode Stats"
-  />
-</p> -->
 <p align="center">
   <img
     src="https://leetcard.jacoblin.cool/atheeee?theme=dark"
@@ -54,3 +48,7 @@
 - LinkedIn: [in/vyacheslav-vasiliadi](https://www.linkedin.com/in/vyacheslav-vasiliadi)
 - ArtStation: [artstation.com/atheeee](https://www.artstation.com/atheeee)
 - Unity Asset Store: [assetstore.unity.com/publishers/129758](https://assetstore.unity.com/publishers/129758)
+
+  | 🧩 LeetCode | 🔗 Links |
+|---|---|
+| <img src="https://leetcard.jacoblin.cool/atheeee?theme=dark" alt="LeetCode Stats" /> | - LinkedIn: [in/vyacheslav-vasiliadi](https://www.linkedin.com/in/vyacheslav-vasiliadi)<br>- ArtStation: [artstation.com/atheeee](https://www.artstation.com/atheeee)<br>- Unity Asset Store: [assetstore.unity.com/publishers/129758](https://assetstore.unity.com/publishers/129758) |
