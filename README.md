@@ -32,7 +32,7 @@
 
 ---
 
-<!-- <table>
+ <table>
   <tr>
     <td valign="top" width="60%">
       <h3>🧩 LeetCode</h3>
@@ -49,23 +49,5 @@
       </ul>
     </td>
   </tr>
-</table> -->
+</table> 
 
-<table border="0" cellspacing="0" cellpadding="0" style="border:none;border-collapse:collapse;">
-  <tr style="border:none;">
-    <td valign="top" width="60%" style="border:none;padding:0 16px 0 0;">
-      <h3>🧩 LeetCode</h3>
-      <p>
-        <img src="https://leetcard.jacoblin.cool/atheeee?theme=dark" alt="LeetCode Stats" />
-      </p>
-    </td>
-    <td valign="top" width="40%" style="border:none;padding:0;">
-      <h3>🔗 Links</h3>
-      <ul>
-        <li><a href="https://www.linkedin.com/in/vyacheslav-vasiliadi">LinkedIn: in/vyacheslav-vasiliadi</a></li>
-        <li><a href="https://www.artstation.com/atheeee">ArtStation: artstation.com/atheeee</a></li>
-        <li><a href="https://assetstore.unity.com/publishers/129758">Unity Asset Store: publishers/129758</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
