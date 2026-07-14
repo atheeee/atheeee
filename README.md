@@ -7,7 +7,7 @@
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-2d333b?style=for-the-badge&logo=node.js&logoColor=339933" />
@@ -37,7 +37,7 @@
 
 ---
 
-### 💻 What I Build
+### What I Build
 
 - Develop scalable **backend services**, REST APIs, authentication systems, and internal platforms.
 - Build high-performance **websites and web applications** with secure server-side architecture.
@@ -49,7 +49,7 @@
 
 ---
 
-### 🛠 Project Areas
+### Project Areas
 
 - **Enterprise Platforms**  
   Internal software for managing users, permissions, documents, operations, and business workflows.
