@@ -11,11 +11,22 @@
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-2d333b?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/TypeScript-2d333b?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-2d333b?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-2d333b?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-2d333b?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-2d333b?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/PHP-2d333b?style=for-the-badge&logo=php&logoColor=777BB4" />
   <img src="https://img.shields.io/badge/Python-2d333b?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/C%23-2d333b?style=for-the-badge&logo=c-sharp&logoColor=9B4F96" />
   <img src="https://img.shields.io/badge/PostgreSQL-2d333b?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MySQL-2d333b?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/MongoDB-2d333b?style=for-the-badge&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/Redis-2d333b?style=for-the-badge&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/RabbitMQ-2d333b?style=for-the-badge&logo=rabbitmq&logoColor=FF6600" />
   <img src="https://img.shields.io/badge/Kafka-2d333b?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-2d333b?style=for-the-badge&logo=graphql&logoColor=E10098" />
+  <img src="https://img.shields.io/badge/JWT-2d333b?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2d333b?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Kubernetes-2d333b?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
   <img src="https://img.shields.io/badge/Linux-2d333b?style=for-the-badge&logo=linux&logoColor=FCC624" />
