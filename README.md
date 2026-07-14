@@ -7,56 +7,56 @@
 
 ---
 
-### ⚙️ Tech stack
+### ⚙️ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-Web%20Development-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Automation%20%26%20Services-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-Event%20Streaming-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Server%20Infrastructure-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-Reverse%20Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-2d333b?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/PHP-2d333b?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Python-2d333b?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2d333b?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Redis-2d333b?style=for-the-badge&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/Kafka-2d333b?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2d333b?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Kubernetes-2d333b?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+  <img src="https://img.shields.io/badge/Linux-2d333b?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Nginx-2d333b?style=for-the-badge&logo=nginx&logoColor=009639" />
+  <img src="https://img.shields.io/badge/Git-2d333b?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-2d333b?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 💻 What I build
+### 💻 What I Build
 
 - Develop scalable **backend services**, REST APIs, authentication systems, and internal platforms.
 - Build high-performance **websites and web applications** with secure server-side architecture.
 - Design and develop **CRM systems**, admin panels, dashboards, and business automation tools.
-- Work with **PostgreSQL**, caching, queues, event-driven systems, and distributed application architecture.
-- Containerize and deploy services using **Docker**, **Kubernetes**, **Linux**, and **Nginx**.
-- Implement access control, data protection, API security, monitoring, logging, and fault-tolerant workflows.
-- Integrate payment systems, third-party APIs, notification services, analytics, and external infrastructure.
+- Build distributed applications with **PostgreSQL**, **Redis**, **Kafka**, and asynchronous processing.
+- Deploy and operate services using **Docker**, **Kubernetes**, **Linux**, and **Nginx**.
+- Implement authentication, authorization, RBAC, API security, monitoring, and fault-tolerant infrastructure.
+- Integrate payment gateways, third-party APIs, analytics, and cloud services.
 
 ---
 
-### 🛠 Project areas
+### 🛠 Project Areas
 
-- **Enterprise platforms**  
-  Internal systems for managing users, operations, documents, permissions, and business processes.
+- **Enterprise Platforms**  
+  Internal software for managing users, permissions, documents, operations, and business workflows.
 
-- **CRM and automation**  
-  Custom CRM solutions, sales pipelines, customer records, reporting, and workflow automation.
+- **CRM Systems**  
+  Custom CRM platforms, reporting, dashboards, customer management, and workflow automation.
 
-- **Web platforms**  
-  Corporate websites, client portals, marketplaces, dashboards, and content-driven applications.
+- **Web Applications**  
+  Corporate websites, SaaS platforms, client portals, marketplaces, and business solutions.
 
-- **API and integrations**  
-  REST APIs, payment gateways, external services, webhooks, message brokers, and data synchronization.
+- **API Development**  
+  REST APIs, third-party integrations, payment systems, webhooks, and service communication.
 
 - **Cybersecurity**  
-  Authentication, authorization, RBAC, secure data storage, infrastructure hardening, and application security.
+  Secure authentication, authorization, RBAC, infrastructure hardening, and application security.
 
-- **High-load systems**  
-  Caching, asynchronous processing, Kafka-based event flows, service decomposition, and horizontal scaling.
+- **Distributed Systems**  
+  Event-driven architecture, caching, background processing, horizontal scaling, and high availability.
 
 ---
 
@@ -71,21 +71,9 @@
     <td valign="top" width="40%">
       <h3>🔗 Links</h3>
       <ul>
-        <li>
-          <a href="https://www.linkedin.com/in/vyacheslav-vasiliadi">
-            LinkedIn
-          </a>
-        </li>
-        <li>
-          <a href="https://github.com/atheeee">
-            GitHub
-          </a>
-        </li>
-        <li>
-          <a href="https://atheryx.com">
-            Atheryx Technologies
-          </a>
-        </li>
+        <li><a href="https://www.linkedin.com/in/vyacheslav-vasiliadi">LinkedIn</a></li>
+        <li><a href="https://github.com/atheeee">GitHub</a></li>
+        <li><a href="https://atheryx.com">Atheryx Technologies</a></li>
       </ul>
     </td>
   </tr>
