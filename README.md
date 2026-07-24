@@ -82,7 +82,7 @@
     <td valign="top" width="40%">
       <h3>🔗 Links</h3>
       <ul>
-        <li><a href="https://www.linkedin.com/in/vyacheslav-vasiliadi">LinkedIn</a></li>
+        <li><a href="https://www.linkedin.com/in/viacheslav-vasiliadi">LinkedIn</a></li>
         <li><a href="https://github.com/atheeee">GitHub</a></li>
         <li><a href="https://atheryx.com">Atheryx Technologies</a></li>
       </ul>
